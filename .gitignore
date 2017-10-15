@@ -1,0 +1,13 @@
+Client/.vs/*
+Client/obj/*
+Client/bin/*
+Server/.vs/*
+Server/obj/*
+Server/bin/*
+
+Client/.vs
+Client/obj
+Client/bin
+Server/.vs
+Server/obj
+Server/bin
